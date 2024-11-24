@@ -26,7 +26,7 @@ This repository contains three Jupyter Notebooks detailing experiments and analy
 - 
 ## Assignment 3
 
-**Algorithms Implemented**: Q-Learning and Expected SARSA with linear function approximation
+**Algorithms Implemented**: Q-Learning, Expected SARSA, REINFORCE and Actor-Critic methods
 
 **Description**: Implements Q-Learning and Expected SARSA for both the MountainCar-v0 and CartPole-v1 environments using linear function approximation. It also covers policy-based methods with the REINFORCE and Actor-Critic methods, exploring different configurations of learning rates and temperature settings.
 
